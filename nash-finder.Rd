@@ -3,7 +3,7 @@
 \alias{Nash finder}
 
 \title{
-  Find a Nash equilibrium
+  Find a Nash Equilibrium
 }
 
 \description{
