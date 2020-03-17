@@ -42,7 +42,7 @@ equilibrium <- find_equilibrium(payouts)
 
 ## a prisoner's dilemma
 payouts2 <- matrix(c(3, 6, 0, 1), 2, 2)
-equilibrium2 <- find_equilibrium(payouts)
+equilibrium2 <- find_equilibrium(payouts2)
 }
 
 \keyword{"array"}
