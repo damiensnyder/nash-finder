@@ -1,10 +1,12 @@
-Package: nash-finder
+Package: nashfinder
 Title: Find a Nash Equilibrium
 Version: 1.0
 Authors@R: person("Damien", "Snyder", email = "damiensnyder@damiensnyder.com",
                   role = c("aut", "cre"))
 Description: This function finds a mixed strategy Nash equilibrium for a numeric matrix
     representing the payouts of a symmetrical two-player game.
-Depends: R (>= 3.1.0)
+Depends: R (>= 3.2.0)
 License: GNU General Public License, version 3
 LazyData: true
+Encoding: UTF-8
+RoxygenNote: 7.1.0.9000
